@@ -1,7 +1,4 @@
-// rrd imports
 import { useLoaderData } from "react-router-dom";
-
-// library
 import { toast } from "react-toastify";
 
 // components
